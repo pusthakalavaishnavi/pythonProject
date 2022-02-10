@@ -1,0 +1,7 @@
+python is very easy language
+paython is high level language
+its free open source
+we have many libraries
+its is dynamically typed language
+
+python is fun
