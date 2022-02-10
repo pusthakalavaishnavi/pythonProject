@@ -12,4 +12,3 @@ l = []
 for i in names:
     if len(i)<=6:
         l.append(i)
-print(l)
